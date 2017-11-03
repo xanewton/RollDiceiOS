@@ -2,6 +2,7 @@
 
 
 ![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-03at11.06.18.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-03at11.17.07.png)
 
 
 RollDice is an iOS sample application that rolls a dice using 2 screens.
